@@ -1,0 +1,11 @@
+body{
+    margin: 10px;
+    background-color: violet;
+}
+h1 {
+    font-style: italic;
+    color: blueviolet;
+}
+ul {
+    font-style: oblique;
+}
